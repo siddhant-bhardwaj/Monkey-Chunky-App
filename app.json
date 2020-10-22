@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "c66-monkey-chunky-",
+    "slug": "snack-a9f5e589-4687-4aa9-bd6c-13ad46fc3fa5",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Using ternary operator and fixing the errors in which if the user typed UpperCase it got converted to lowerCase and changing the colour of the buttons"
+  }
+}
